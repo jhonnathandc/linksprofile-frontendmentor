@@ -2,7 +2,7 @@
 
 This project is part of the challenges of [FrontEnd Mentor](https://www.frontendmentor.io/).
 
-[Access the deploy here.](https://nftpreview-frontendmentor.vercel.app/)
+[Access the deploy here.](https://linksprofile-frontendmentor.vercel.app/)
 <br>
 <br>
 [Access the challenge on the FrontEnd Mentor here.](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
