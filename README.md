@@ -2,14 +2,13 @@
 
 This project is part of the challenges of [FrontEnd Mentor](https://www.frontendmentor.io/).
 
-[Access the deploy here.](https://nftpreview-frontendmentor.vercel.app/)
+[Access the deploy here.](https://linksprofile-frontendmentor.vercel.app/)
 <br>
 <br>
 [Access the challenge on the FrontEnd Mentor here.](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 
 ## Demonstration
-
-![Wireframe - 1](https://user-images.githubusercontent.com/82620787/235288053-9179feed-ce48-4712-96ce-f4a5fb2d3bfb.png)
+![Desktop + Mobile - 5](https://github.com/jhonnathandc/linksprofile-frontendmentor/assets/82620787/4adab110-8986-4cae-811b-0aad164c7d5c)
 
 ## More Informations
 
